@@ -390,11 +390,6 @@ const IndexPage = () => (
             position="VC Finance"
           />
           <OfficerProfile 
-            name="Parth Desai"
-            avatar={ VCF }
-            position="VC Finance"
-          />
-          <OfficerProfile 
             name="Sarp User"
             avatar={ VCEvents }
             position="VC Events"
