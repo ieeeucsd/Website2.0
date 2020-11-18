@@ -38,6 +38,7 @@ import PR2 from "../images/officers/PR - Hannah Zhou.png"
 import PR3 from "../images/officers/PR - Michele Murakami.jpg"
 import PR4 from "../images/officers/PR - Steven Liu - Huaning Liu.png"
 import Outreach from "../images/officers/Outreach - Ishaan Kavoori.png"
+import Outreach2 from "../images/officers/Outreach - Derek Cantor.jpg"
 import Professional from  "../images/officers/Professional - Yukti Vijay.jpeg"
 import ProjectDrive from  "../images/officers/Project Drive - Tianyue Zhao.jpeg"
 import PSChair from  "../images/officers/Project Space - Benjamin Tang.jpeg"
@@ -48,7 +49,7 @@ import Social1 from "../images/officers/Social - Amy Nguyen.jpeg"
 import Social2 from "../images/officers/Social - Clyde Baron Rapinan.jpeg"
 import Social3 from "../images/officers/Social - Oliver Korchnoy.jpg"
 import TechnicalChair1 from "../images/officers/Technical - Chase Bastian.jpg"
-import TechnicalChair2 from "../images/officers/Technical - Tim Wang.jpg"
+import TechnicalChair2 from "../images/officers/Technical - Tim Wang (updated).png"
 import TechnicalChair3 from "../images/officers/Technical - William Duan.jpg"
 import Webmaster from "../images/officers/Webmaster - Dominick Lee.jpg"
 
@@ -422,6 +423,11 @@ const IndexPage = () => (
           <OfficerProfile 
             name="Ishaan Kavoori"
             avatar={ Outreach }
+            position="Outreach Chair"
+          />
+          <OfficerProfile 
+            name="Derek Cantor"
+            avatar={ Outreach2 }
             position="Outreach Chair"
           />
           <OfficerProfile 
