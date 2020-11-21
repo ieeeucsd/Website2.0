@@ -397,11 +397,6 @@ const IndexPage = () => (
             position="VC Events"
           />
           <OfficerProfile 
-            name="Sarp User"
-            avatar={ VCEvents }
-            position="VC Events"
-          />
-          <OfficerProfile 
             name="Ameya Singh"
             avatar={ EventFinance }
             position="Event Finance"
@@ -444,7 +439,7 @@ const IndexPage = () => (
           <OfficerProfile 
             name="Yukti Vijay"
             avatar={ Professional }
-            position="Project Drive"
+            position="Professional Chair"
           />
           <OfficerProfile 
             name="Tianyue Zhao"
