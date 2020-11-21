@@ -32,6 +32,7 @@ import VCI from "../images/officers/VC Internal - Angela Wang.jpg"
 import VCP from "../images/officers/VC Projects - Eric Xiao.jpg"
 import VCF from "../images/officers/VCF - Parth Desai.jpg"
 import VCEvents from "../images/officers/VC Events - Sarp User.jpeg"
+import EventFinance from "../images/officers/Event Finance - Ameya Singh.jpg"
 import GrandPrIEEE from "../images/officers/Grand PrIEEE- Ryan Tran.jpg"
 import PR1 from "../images/officers/PR - Angela Liu.jpg"
 import PR2 from "../images/officers/PR - Hannah Zhou.png"
@@ -394,6 +395,16 @@ const IndexPage = () => (
             name="Sarp User"
             avatar={ VCEvents }
             position="VC Events"
+          />
+          <OfficerProfile 
+            name="Sarp User"
+            avatar={ VCEvents }
+            position="VC Events"
+          />
+          <OfficerProfile 
+            name="Ameya Singh"
+            avatar={ EventFinance }
+            position="Event Finance"
           />
           <OfficerProfile 
             name="Ryan Tran"
