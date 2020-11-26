@@ -16,7 +16,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f57b029dbcf2d1d54cf0e8afebfdaf13",
+        "contentDigest": "2efd7e2811002368255e8fc911057796",
         "description": "Plugin dev-404-page",
         "owner": "internal-data-bridge"
       }
@@ -283,7 +283,7 @@
       "resolve": "/Users/domogami/Documents/GitHub/Website2.0",
       "id": "Plugin default-site-plugin",
       "name": "default-site-plugin",
-      "version": "a63308aee20af093b24e80321e81a4a8",
+      "version": "9b0e264a034cfc842a07122de964ec35",
       "pluginOptions": {
         "plugins": []
       },
@@ -367,7 +367,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "4230de600cbe40e54ee2d01529d6e920",
+        "contentDigest": "cd4c778d39a72bc01e913ac4bc358d47",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -456,18 +456,19 @@
     },
     "Site": {
       "siteMetadata": {
-        "title": "IEEE at UCSD"
+        "title": "IEEE at UCSD",
+        "description": "Institute of Electrical and Electronics Engineers at UC San Diego"
       },
       "port": "8000",
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2020-11-21T20:41:34.310Z",
+      "buildTime": "2020-11-26T04:25:53.542Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "9692ed14ed580c93119c756149b473ac",
+        "contentDigest": "dc86fa61e3fd3c5bf993285a5f9408d4",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -488,7 +489,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "780b1dbde812b74419f740a9d3479854",
+        "contentDigest": "c9998c684be7b9423778630faf5ded36",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -509,7 +510,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b68e0d3d4cf01bfcbbb368563e92a5d7",
+        "contentDigest": "296834aabe6c1c152e0a5d845f07cffe",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -530,7 +531,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "acc89e24dba255859e12468e47989400",
+        "contentDigest": "d7eaf7b17852f07317927d9239b95ecf",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -551,7 +552,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "30215f57a60f03aac64385b1c5c4c523",
+        "contentDigest": "db3b08e7e2de17b275b745569448cc3c",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -572,7 +573,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7cb73c19c8cad2df2497c863c37fe9c6",
+        "contentDigest": "5df81d98cbcb920c7bad9aac08bc2a6b",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -593,7 +594,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "8ab351229a51c25f9f580af1e16c9c62",
+        "contentDigest": "42df5e90c1727f537fdded25646637da",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -614,7 +615,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "5130ae1159f4313e408a0e202bddbade",
+        "contentDigest": "3807bb32c68c6865f3ba80a0f5d4135c",
         "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
       }
@@ -622,7 +623,7 @@
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "9b337b3903ae9594145d7eb6bcf6d41e"
+    "PLUGINS_HASH": "652394d18099fe8e4c549a07fd95c50a"
   },
   "componentDataDependencies": {
     "nodes": {

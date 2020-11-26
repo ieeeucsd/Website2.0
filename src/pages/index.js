@@ -454,12 +454,12 @@ const IndexPage = () => (
           <OfficerProfile 
             name="Danny Vo"
             avatar={ QP1 }
-            position="QP Chair"
+            position="Quarterly Project"
           />
           <OfficerProfile 
             name="Siddharth Nag"
             avatar={ QP2 }
-            position="QP Chair"
+            position="Quarterly Project"
           />
           <OfficerProfile 
             name="Joaquin Caso"
