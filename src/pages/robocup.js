@@ -16,6 +16,7 @@ const RoboCupPage = () => (
       <div className="RobocupText">
         <h1>RoboCup SSL</h1>
         <p1>This page is a work in progress</p1>
+        {/* TODO */}
       </div>
     </div>
     </div>
