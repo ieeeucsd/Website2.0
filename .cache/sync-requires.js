@@ -13,7 +13,8 @@ exports.components = {
   "component---src-pages-page-2-js": preferDefault(require("/Users/domogami/Documents/GitHub/Website2.0/src/pages/page-2.js")),
   "component---src-pages-qp-js": preferDefault(require("/Users/domogami/Documents/GitHub/Website2.0/src/pages/qp.js")),
   "component---src-pages-robocup-js": preferDefault(require("/Users/domogami/Documents/GitHub/Website2.0/src/pages/robocup.js")),
-  "component---src-pages-sponsor-js": preferDefault(require("/Users/domogami/Documents/GitHub/Website2.0/src/pages/sponsor.js"))
+  "component---src-pages-sponsor-js": preferDefault(require("/Users/domogami/Documents/GitHub/Website2.0/src/pages/sponsor.js")),
+  "component---src-pages-outreach-js": preferDefault(require("/Users/domogami/Documents/GitHub/Website2.0/src/pages/outreach.js"))
 }
 
 exports.json = {
@@ -25,5 +26,6 @@ exports.json = {
   "qp.json": require("/Users/domogami/Documents/GitHub/Website2.0/.cache/json/qp.json"),
   "robocup.json": require("/Users/domogami/Documents/GitHub/Website2.0/.cache/json/robocup.json"),
   "sponsor.json": require("/Users/domogami/Documents/GitHub/Website2.0/.cache/json/sponsor.json"),
-  "404-html.json": require("/Users/domogami/Documents/GitHub/Website2.0/.cache/json/404-html.json")
+  "404-html.json": require("/Users/domogami/Documents/GitHub/Website2.0/.cache/json/404-html.json"),
+  "outreach.json": require("/Users/domogami/Documents/GitHub/Website2.0/.cache/json/outreach.json")
 }

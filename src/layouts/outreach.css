@@ -1,0 +1,29 @@
+.OutreachWrapper {
+  margin-left: 300px;
+  padding: 10px 16px;
+}
+
+.OutreachMain {
+  margin: 20px;
+  background-color: #ffffff;
+  box-shadow: 4px 4px 30px rgba(0, 0, 0, 0.1);
+  border-radius: 35px;
+  animation: SlideUpAnimation 3s 0.2s forwards cubic-bezier(0.2, 0.8, 0.2, 1);
+  opacity: 0;
+  display: flex;
+  padding-bottom: 40px;
+}
+.OutreachText h2 {
+  color: #2a1a4e;
+  font-weight: 600;
+  margin-left: 40px;
+}
+.OutreachText p1 {
+  display: inline-block;
+  margin: auto 40px;
+}
+
+.PandemicReliefButton {
+  margin-top: 20px;
+  margin-left: 40px;
+}

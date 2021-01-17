@@ -8,7 +8,8 @@ exports.components = {
   "component---src-pages-page-2-js": require("gatsby-module-loader?name=component---src-pages-page-2-js!/Users/domogami/Documents/GitHub/Website2.0/src/pages/page-2.js"),
   "component---src-pages-qp-js": require("gatsby-module-loader?name=component---src-pages-qp-js!/Users/domogami/Documents/GitHub/Website2.0/src/pages/qp.js"),
   "component---src-pages-robocup-js": require("gatsby-module-loader?name=component---src-pages-robocup-js!/Users/domogami/Documents/GitHub/Website2.0/src/pages/robocup.js"),
-  "component---src-pages-sponsor-js": require("gatsby-module-loader?name=component---src-pages-sponsor-js!/Users/domogami/Documents/GitHub/Website2.0/src/pages/sponsor.js")
+  "component---src-pages-sponsor-js": require("gatsby-module-loader?name=component---src-pages-sponsor-js!/Users/domogami/Documents/GitHub/Website2.0/src/pages/sponsor.js"),
+  "component---src-pages-outreach-js": require("gatsby-module-loader?name=component---src-pages-outreach-js!/Users/domogami/Documents/GitHub/Website2.0/src/pages/outreach.js")
 }
 
 exports.json = {
@@ -20,7 +21,8 @@ exports.json = {
   "qp.json": require("gatsby-module-loader?name=path---qp!/Users/domogami/Documents/GitHub/Website2.0/.cache/json/qp.json"),
   "robocup.json": require("gatsby-module-loader?name=path---robocup!/Users/domogami/Documents/GitHub/Website2.0/.cache/json/robocup.json"),
   "sponsor.json": require("gatsby-module-loader?name=path---sponsor!/Users/domogami/Documents/GitHub/Website2.0/.cache/json/sponsor.json"),
-  "404-html.json": require("gatsby-module-loader?name=path---404-html!/Users/domogami/Documents/GitHub/Website2.0/.cache/json/404-html.json")
+  "404-html.json": require("gatsby-module-loader?name=path---404-html!/Users/domogami/Documents/GitHub/Website2.0/.cache/json/404-html.json"),
+  "outreach.json": require("gatsby-module-loader?name=path---outreach!/Users/domogami/Documents/GitHub/Website2.0/.cache/json/outreach.json")
 }
 
 exports.layouts = {

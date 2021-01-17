@@ -14,8 +14,8 @@ const Layout = ({ children, data }) => (
     <Helmet
       title={data.site.siteMetadata.title}
       meta={[
-        { name: "description", content: "Sample" },
-        { name: "keywords", content: "sample, something" },
+        { name: "description", content: "IEEE UCSD Site" },
+        { name: "keywords", content: "IEEE, UCSD, IEEE San Diego Branch" },
       ]}
       link={[{ rel: "shortcut icon", type: "image/png", href: `${favicon}` }]}
     />
