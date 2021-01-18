@@ -98,10 +98,10 @@ const IndexPage = () => (
       <div className="Events" id="events">
         <h1>Events</h1>
         <EventCard
-          title="ML Bootcamp"
+          title="Pandemic Relief"
           icon={faBrain}
-          link="https://ieeeucsd.github.io/mlbootcamp/"
-          text="8:30pm Sept 20th"
+          link="https://ieeeucsd.org/outreach"
+          text="11:59pm Feb. 13th"
           color="#0059DA"
         />
         <EventCard
