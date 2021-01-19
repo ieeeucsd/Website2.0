@@ -26,7 +26,7 @@ const OutreachPage = () => (
         <p1>The UCSD IEEE Pandemic Relief Design Competition is an opportunity for middle and high school students to demonstrate their ability to pursue interesting projects outside of the classroom and build solutions to problems in the real world. Over the course of a few months, students will work either in groups virtually or by themselves researching and designing a solution to a consequential problem resulting from the coronavirus pandemic. 
         <br/> 
         <br/> 
-        Students of all different interests are welcome and encouraged to compete! Applications due by January XX, 2020.</p1>
+        Students of all different interests are welcome and encouraged to compete! Applications due by February 13, 2020.</p1>
         <div className="PandemicReliefButton">
             <button className="learn-more">
             <span
@@ -36,7 +36,7 @@ const OutreachPage = () => (
             >
                 <span className="icon arrow"></span>
             </span>
-            <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" className="button-text">
+            <a href="https://www.eventbrite.com/e/ucsd-ieee-pandemic-relief-design-competition-tickets-136847060241" className="button-text">
                 Sign Up!
             </a>
             </button>
