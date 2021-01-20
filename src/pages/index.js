@@ -98,9 +98,9 @@ const IndexPage = () => (
       <div className="Events" id="events">
         <h1>Events</h1>
         <EventCard
-          title="Covid Competition"
+          title="Covid Design"
           icon={faBrain}
-          link="https://ieeeucsd.org/outreach"
+          link="/outreach"
           text="11:59pm Feb. 13th"
           color="#0059DA"
         />

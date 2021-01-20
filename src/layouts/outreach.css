@@ -13,6 +13,23 @@
   display: flex;
   padding-bottom: 40px;
 }
+.OutreachImg {
+  margin: 20px;
+  margin-bottom: 0;
+  border-radius: 35px;
+  animation: SlideUpAnimation 3s 0.2s forwards cubic-bezier(0.2, 0.8, 0.2, 1);
+  opacity: 0;
+  padding: 0;
+}
+.OutreachImg img {
+  box-shadow: 4px 4px 30px rgba(0, 0, 0, 0.1);
+
+  margin: 20px;
+  border-radius: 35px;
+  max-width: 100%;
+  height: auto;
+  margin: auto;
+}
 .OutreachText h2 {
   color: #2a1a4e;
   font-weight: 600;
@@ -22,8 +39,24 @@
   display: inline-block;
   margin: auto 40px;
 }
+.OutreachText p2 {
+  font-weight: 600;
+}
 
 .PandemicReliefButton {
-  margin-top: 20px;
-  margin-left: 40px;
+  margin: 40px;
+}
+
+.rubric {
+  margin: 40px;
+}
+
+.rubric th,
+td {
+  padding: 15px;
+}
+@media (max-width: 850px) {
+  .OutreachWrapper {
+    margin-left: auto;
+  }
 }
