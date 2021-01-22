@@ -30,7 +30,7 @@ const OutreachPage = () => (
         <p1>The UCSD IEEE Pandemic Relief Design Competition is an opportunity for middle and high school students to demonstrate their ability to pursue interesting projects outside of the classroom and build solutions to problems in the real world. Over the course of a few months, students will work either in groups virtually or by themselves researching and designing a solution to a consequential problem resulting from the coronavirus pandemic. 
         <br/> 
         <br/> 
-        Students of all different interests are welcome and encouraged to compete! Applications due by February 13, 2020.
+        Students of all different interests are welcome and encouraged to compete! Applications due by February 13, 2021.
         <br/> 
         <br/> 
         Once accepted, you will brainstorm a project that abides to the theme of this event and follows the rubric guidelines.  Working physical prototypes can be helpful for the design process, but are not necessary.  Partaking in this virtual event is an excellent opportunity to demonstrate your ability to pursue interesting projects outside of the classroom and build solutions to problems in the real world.  We can’t wait to see what you come up with!
