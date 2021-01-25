@@ -27,7 +27,7 @@ const OutreachPage = () => (
       <div className="OutreachText">
         <h1>Outreach</h1>
         <h2>Pandemic Relief Design Competition</h2>
-        <p1>The UCSD IEEE Pandemic Relief Design Competition is an opportunity for middle and high school students to demonstrate their ability to pursue interesting projects outside of the classroom and build solutions to problems in the real world. Over the course of a few months, students will work either in groups virtually or by themselves researching and designing a solution to a consequential problem resulting from the coronavirus pandemic. 
+        <p1>The UCSD IEEE Pandemic Relief Design Competition is an opportunity for middle and high school students to demonstrate their ability to pursue interesting projects outside of the classroom and build solutions to problems in the real world. Over the course of a few weeks, students will work either in groups virtually or by themselves researching and designing a solution to a consequential problem resulting from the coronavirus pandemic. 
         <br/> 
         <br/> 
         Students of all different interests are welcome and encouraged to compete! Applications due by February 13, 2021.
