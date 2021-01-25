@@ -45,9 +45,8 @@ const OutreachPage = () => (
         <br/> 
         <b> Deadline for One-pager description, video, or sketch submission for final round: </b>
         <br/> 
-        2/13 (Sat) -- Fake Deadline & Registration deadline (We may extend the registration deadline depends on the participation numbers)   
+        2/13 (Sat) -- Deadline & Registration deadline   
         <br/> 
-        2/20 (Sat) -- Actual Deadline (“Deadline extended for one more week!”)
         </p1>
         
         <div className="PandemicReliefButton">
