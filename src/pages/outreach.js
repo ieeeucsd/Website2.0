@@ -47,6 +47,11 @@ const OutreachPage = () => (
         <br/> 
         2/13 (Sat) -- Deadline & Registration deadline   
         <br/> 
+        <br/> 
+        <b> Prizes: </b>
+        <br/> 
+        Participation -- T-shirt
+        <br/> 
         </p1>
         
         <div className="PandemicReliefButton">
