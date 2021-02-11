@@ -84,8 +84,8 @@ const OutreachPage = () => (
                 Submit Project!
             </a>
             </button>
-            Please sign up before submitting
         </div>
+        Please sign up before submitting
 
         <h2>Rubric</h2>
         <table className="rubric">
