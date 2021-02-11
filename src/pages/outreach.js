@@ -45,7 +45,7 @@ const OutreachPage = () => (
         <br/> 
         <b> Deadline for One-pager description, video, or sketch submission for final round: </b>
         <br/> 
-        2/13 (Sat) -- Deadline & Registration deadline   
+        2/20 (Sat) -- Deadline & Registration deadline *(extended from 2/13)
         <br/> 
         <br/> 
         <b> Prizes: </b>
@@ -67,6 +67,21 @@ const OutreachPage = () => (
             </span>
             <a href="https://www.eventbrite.com/e/ucsd-ieee-pandemic-relief-design-competition-tickets-136847060241" className="button-text">
                 Sign Up!
+            </a>
+            </button>
+        </div>
+
+        <div className="PandemicReliefButton">
+            <button className="learn-more">
+            <span
+                className="circle"
+                aria-hidden="true"
+                style={{ background: "#00cdda" }}
+            >
+                <span className="icon arrow"></span>
+            </span>
+            <a href="https://docs.google.com/forms/d/1Xdnr_Wa14V_sxQ0aAH1HdEdFxDHoH5ZEWgraa0tY3Jg/viewform?edit_requested=true" className="button-text">
+                Submit Project! (please sign up first)
             </a>
             </button>
         </div>
