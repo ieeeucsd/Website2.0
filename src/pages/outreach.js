@@ -81,9 +81,10 @@ const OutreachPage = () => (
                 <span className="icon arrow"></span>
             </span>
             <a href="https://docs.google.com/forms/d/1Xdnr_Wa14V_sxQ0aAH1HdEdFxDHoH5ZEWgraa0tY3Jg/viewform?edit_requested=true" className="button-text">
-                Submit Project! (please sign up first)
+                Submit Project!
             </a>
             </button>
+            Please sign up before submitting
         </div>
 
         <h2>Rubric</h2>
