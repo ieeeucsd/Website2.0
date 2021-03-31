@@ -5,24 +5,24 @@
       "jsonName": "dev-404-page.json",
       "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
-      "component": "/Users/domogami/Documents/GitHub/Website2.0/.cache/dev-404-page.js",
+      "component": "/Users/emmayuan/Documents/Website2.0/.cache/dev-404-page.js",
       "componentChunkName": "component---cache-dev-404-page-js",
       "context": {},
       "pluginCreator___NODE": "Plugin dev-404-page",
       "pluginCreatorId": "Plugin dev-404-page",
-      "componentPath": "/Users/domogami/Documents/GitHub/Website2.0/.cache/dev-404-page.js",
+      "componentPath": "/Users/emmayuan/Documents/Website2.0/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "bba4ec33b37d8d2e354a6b1559356c4e",
+        "contentDigest": "4269828c9e194e5a8431d3f97e350cfd",
         "description": "Plugin dev-404-page",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin dev-404-page": {
-      "resolve": "/Users/domogami/Documents/GitHub/Website2.0/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "resolve": "/Users/emmayuan/Documents/Website2.0/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "id": "Plugin dev-404-page",
       "name": "dev-404-page",
       "version": "1.0.0",
@@ -34,7 +34,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/domogami/Documents/GitHub/Website2.0/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "pluginFilepath": "/Users/emmayuan/Documents/Website2.0/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "packageJson": {
         "name": "dev-404-page",
         "description": "Internal plugin to add a 404 page in development with helpful information",
@@ -51,13 +51,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "869cbf575b0b7316e3db6edc3b70cebe",
+        "contentDigest": "e974aac69edd836e087dbe805caba710",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin component-layout-creator": {
-      "resolve": "/Users/domogami/Documents/GitHub/Website2.0/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "resolve": "/Users/emmayuan/Documents/Website2.0/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
       "id": "Plugin component-layout-creator",
       "name": "component-layout-creator",
       "version": "1.0.0",
@@ -69,7 +69,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/domogami/Documents/GitHub/Website2.0/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "pluginFilepath": "/Users/emmayuan/Documents/Website2.0/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
       "packageJson": {
         "name": "component-layout-creator",
         "description": "An internal Gatsby plugin that creates pages from component files in src/layouts",
@@ -90,13 +90,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "749d9cdee0d98ec2ea576225b7a0c39b",
+        "contentDigest": "9d300ae4c5547eb0ad5d7b3eef9149fa",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin internal-data-bridge": {
-      "resolve": "/Users/domogami/Documents/GitHub/Website2.0/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "resolve": "/Users/emmayuan/Documents/Website2.0/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "id": "Plugin internal-data-bridge",
       "name": "internal-data-bridge",
       "version": "1.0.0",
@@ -109,7 +109,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/domogami/Documents/GitHub/Website2.0/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "pluginFilepath": "/Users/emmayuan/Documents/Website2.0/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "packageJson": {
         "name": "internal-data-bridge",
         "description": "An internal Gatsby plugin which creates data nodes from internal data",
@@ -126,13 +126,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "b043b29c016d48dae2b4cbdbc60e0891",
+        "contentDigest": "1df56f456f5df3b2a15ed0fb4830989d",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin prod-404": {
-      "resolve": "/Users/domogami/Documents/GitHub/Website2.0/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "resolve": "/Users/emmayuan/Documents/Website2.0/node_modules/gatsby/dist/internal-plugins/prod-404",
       "id": "Plugin prod-404",
       "name": "prod-404",
       "version": "1.0.0",
@@ -144,7 +144,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/domogami/Documents/GitHub/Website2.0/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "pluginFilepath": "/Users/emmayuan/Documents/Website2.0/node_modules/gatsby/dist/internal-plugins/prod-404",
       "packageJson": {
         "name": "prod-404",
         "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
@@ -161,13 +161,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "dedd998f1f7c5520d3902c312bb9c24d",
+        "contentDigest": "a3760238e5444cf762ac93628135e77b",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin query-runner": {
-      "resolve": "/Users/domogami/Documents/GitHub/Website2.0/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "resolve": "/Users/emmayuan/Documents/Website2.0/node_modules/gatsby/dist/internal-plugins/query-runner",
       "id": "Plugin query-runner",
       "name": "query-runner",
       "version": "1.0.0",
@@ -180,7 +180,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/domogami/Documents/GitHub/Website2.0/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "pluginFilepath": "/Users/emmayuan/Documents/Website2.0/node_modules/gatsby/dist/internal-plugins/query-runner",
       "packageJson": {
         "name": "query-runner",
         "description": "Internal plugin for running queries",
@@ -197,13 +197,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "dc85530f76f365e4f719eface26fa862",
+        "contentDigest": "a5a6d2651bd505d2950352e17abda124",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-react-helmet": {
-      "resolve": "/Users/domogami/Documents/GitHub/Website2.0/node_modules/gatsby-plugin-react-helmet",
+      "resolve": "/Users/emmayuan/Documents/Website2.0/node_modules/gatsby-plugin-react-helmet",
       "id": "Plugin gatsby-plugin-react-helmet",
       "name": "gatsby-plugin-react-helmet",
       "version": "2.0.11",
@@ -215,7 +215,7 @@
       "ssrAPIs": [
         "onRenderBody"
       ],
-      "pluginFilepath": "/Users/domogami/Documents/GitHub/Website2.0/node_modules/gatsby-plugin-react-helmet",
+      "pluginFilepath": "/Users/emmayuan/Documents/Website2.0/node_modules/gatsby-plugin-react-helmet",
       "packageJson": {
         "name": "gatsby-plugin-react-helmet",
         "description": "Manage document head data with react-helmet. Provides drop-in server rendering support for Gatsby.",
@@ -274,13 +274,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "1ba8fb146cd7c9c547c1d87224738561",
+        "contentDigest": "624bd69394d419d089fddac484edda88",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin default-site-plugin": {
-      "resolve": "/Users/domogami/Documents/GitHub/Website2.0",
+      "resolve": "/Users/emmayuan/Documents/Website2.0",
       "id": "Plugin default-site-plugin",
       "name": "default-site-plugin",
       "version": "7c53b2621030eb47c330750666e15ee9",
@@ -290,7 +290,7 @@
       "nodeAPIs": [],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/domogami/Documents/GitHub/Website2.0",
+      "pluginFilepath": "/Users/emmayuan/Documents/Website2.0",
       "packageJson": {
         "name": "ieeeWebsite",
         "description": "IEEE UC San Diego Website",
@@ -367,19 +367,19 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "46ba462bddccc8accdb839b2a4ebe4de",
+        "contentDigest": "35b5996bf369707e6f5262efd0f67b5a",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-page-creator": {
-      "resolve": "/Users/domogami/Documents/GitHub/Website2.0/node_modules/gatsby-plugin-page-creator",
+      "resolve": "/Users/emmayuan/Documents/Website2.0/node_modules/gatsby-plugin-page-creator",
       "id": "Plugin gatsby-plugin-page-creator",
       "name": "gatsby-plugin-page-creator",
       "version": "1.0.1",
       "pluginOptions": {
         "plugins": [],
-        "path": "/Users/domogami/Documents/GitHub/Website2.0/src/pages",
+        "path": "/Users/emmayuan/Documents/Website2.0/src/pages",
         "pathCheck": false
       },
       "nodeAPIs": [
@@ -387,7 +387,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/domogami/Documents/GitHub/Website2.0/node_modules/gatsby-plugin-page-creator",
+      "pluginFilepath": "/Users/emmayuan/Documents/Website2.0/node_modules/gatsby-plugin-page-creator",
       "packageJson": {
         "name": "gatsby-plugin-page-creator",
         "description": "Gatsby plugin that automatically creates pages from React components in specified directories",
@@ -449,7 +449,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "11b83e6b6e64df8ed81ccdff73099540",
+        "contentDigest": "edc77ee3f82d10073859a23c0294a992",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -463,12 +463,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2021-01-20T22:50:20.320Z",
+      "buildTime": "2021-03-31T07:36:43.033Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "1626669e9b069d41e262d979d6979d93",
+        "contentDigest": "c841222193cda31ae164bc4d95359559",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -478,18 +478,18 @@
       "jsonName": "404.json",
       "internalComponentName": "Component404",
       "path": "/404/",
-      "component": "/Users/domogami/Documents/GitHub/Website2.0/src/pages/404.js",
+      "component": "/Users/emmayuan/Documents/Website2.0/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
       "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
       "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/Users/domogami/Documents/GitHub/Website2.0/src/pages/404.js",
+      "componentPath": "/Users/emmayuan/Documents/Website2.0/src/pages/404.js",
       "id": "SitePage /404/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "66566dc300f20179459c73042827cd3a",
+        "contentDigest": "16564f485b350153f097dbfe1b4eae46",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -499,18 +499,18 @@
       "jsonName": "index.json",
       "internalComponentName": "ComponentIndex",
       "path": "/",
-      "component": "/Users/domogami/Documents/GitHub/Website2.0/src/pages/index.js",
+      "component": "/Users/emmayuan/Documents/Website2.0/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "context": {},
       "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
       "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/Users/domogami/Documents/GitHub/Website2.0/src/pages/index.js",
+      "componentPath": "/Users/emmayuan/Documents/Website2.0/src/pages/index.js",
       "id": "SitePage /",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "af5a017c2e89c2859bbb1c37983d4a33",
+        "contentDigest": "cec201b938f6c9adb4ecab333a56f326",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -520,18 +520,18 @@
       "jsonName": "outreach.json",
       "internalComponentName": "ComponentOutreach",
       "path": "/outreach/",
-      "component": "/Users/domogami/Documents/GitHub/Website2.0/src/pages/outreach.js",
+      "component": "/Users/emmayuan/Documents/Website2.0/src/pages/outreach.js",
       "componentChunkName": "component---src-pages-outreach-js",
       "context": {},
       "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
       "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/Users/domogami/Documents/GitHub/Website2.0/src/pages/outreach.js",
+      "componentPath": "/Users/emmayuan/Documents/Website2.0/src/pages/outreach.js",
       "id": "SitePage /outreach/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f3b91c88996712e15443f896220eead4",
+        "contentDigest": "8dcb000aa688ab413153616c9857fdfb",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -541,18 +541,18 @@
       "jsonName": "page-2.json",
       "internalComponentName": "ComponentPage2",
       "path": "/page-2/",
-      "component": "/Users/domogami/Documents/GitHub/Website2.0/src/pages/page-2.js",
+      "component": "/Users/emmayuan/Documents/Website2.0/src/pages/page-2.js",
       "componentChunkName": "component---src-pages-page-2-js",
       "context": {},
       "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
       "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/Users/domogami/Documents/GitHub/Website2.0/src/pages/page-2.js",
+      "componentPath": "/Users/emmayuan/Documents/Website2.0/src/pages/page-2.js",
       "id": "SitePage /page-2/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b43a6c3475bdf5863c98431d3acfe28f",
+        "contentDigest": "329367bad49cc1053c84b11f8f87d5d6",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -562,18 +562,18 @@
       "jsonName": "qp.json",
       "internalComponentName": "ComponentQp",
       "path": "/qp/",
-      "component": "/Users/domogami/Documents/GitHub/Website2.0/src/pages/qp.js",
+      "component": "/Users/emmayuan/Documents/Website2.0/src/pages/qp.js",
       "componentChunkName": "component---src-pages-qp-js",
       "context": {},
       "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
       "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/Users/domogami/Documents/GitHub/Website2.0/src/pages/qp.js",
+      "componentPath": "/Users/emmayuan/Documents/Website2.0/src/pages/qp.js",
       "id": "SitePage /qp/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "9e116ec5729140fd51c46a6e1edd3d89",
+        "contentDigest": "f38557dc696a9da1be79b379399dac7b",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -583,18 +583,18 @@
       "jsonName": "robocup.json",
       "internalComponentName": "ComponentRobocup",
       "path": "/robocup/",
-      "component": "/Users/domogami/Documents/GitHub/Website2.0/src/pages/robocup.js",
+      "component": "/Users/emmayuan/Documents/Website2.0/src/pages/robocup.js",
       "componentChunkName": "component---src-pages-robocup-js",
       "context": {},
       "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
       "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/Users/domogami/Documents/GitHub/Website2.0/src/pages/robocup.js",
+      "componentPath": "/Users/emmayuan/Documents/Website2.0/src/pages/robocup.js",
       "id": "SitePage /robocup/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7a03c8138e7e28778b42b371fbfe4705",
+        "contentDigest": "dbc0c03191a9c381bb62837b94dec3fd",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -604,18 +604,18 @@
       "jsonName": "sponsor.json",
       "internalComponentName": "ComponentSponsor",
       "path": "/sponsor/",
-      "component": "/Users/domogami/Documents/GitHub/Website2.0/src/pages/sponsor.js",
+      "component": "/Users/emmayuan/Documents/Website2.0/src/pages/sponsor.js",
       "componentChunkName": "component---src-pages-sponsor-js",
       "context": {},
       "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
       "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/Users/domogami/Documents/GitHub/Website2.0/src/pages/sponsor.js",
+      "componentPath": "/Users/emmayuan/Documents/Website2.0/src/pages/sponsor.js",
       "id": "SitePage /sponsor/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "2810b3c540d957d6944aa6718b93cff3",
+        "contentDigest": "0a4eab1600aae9285868ac2f80ad73d0",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -625,18 +625,18 @@
       "jsonName": "404-html.json",
       "internalComponentName": "Component404Html",
       "path": "/404.html",
-      "component": "/Users/domogami/Documents/GitHub/Website2.0/src/pages/404.js",
+      "component": "/Users/emmayuan/Documents/Website2.0/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
       "pluginCreator___NODE": "Plugin prod-404",
       "pluginCreatorId": "Plugin prod-404",
-      "componentPath": "/Users/domogami/Documents/GitHub/Website2.0/src/pages/404.js",
+      "componentPath": "/Users/emmayuan/Documents/Website2.0/src/pages/404.js",
       "id": "SitePage /404.html",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "206c0d806e9e0ec16ff0b1d9b496a855",
+        "contentDigest": "ee9133b4e193855b7862ff815c48de6d",
         "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
       }
