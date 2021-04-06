@@ -1,1 +1,54 @@
-/* TODO */
+.RoboCupWrapper {
+    margin-left: 300px;
+    padding: 10px 16px;
+}
+
+.RoboCupMain {
+    margin: 20px;
+    background-color: #FFFFFF;
+    box-shadow: 4px 4px 30px rgba(0, 0, 0, 0.1);
+    border-radius: 35px;
+    animation: SlideUpAnimation 3s 0.2s forwards cubic-bezier(0.2, 0.8, 0.2, 1);
+    opacity: 0;
+    display: flex;
+    padding-bottom: 40px;
+}
+
+.RoboCupText h1 {
+    color: #2a1a4e;
+    font-weight: 600;
+    margin-left: 80px;
+}
+
+.RoboCupText h3 {
+    color: #2a1a4e;
+    font-weight: 600;
+    margin-left: 80px;
+}
+
+.RoboCupText p1 {
+    color: #2a1a4e;
+    display: inline-block;
+    margin: auto 80px;
+}
+
+#bulletpoints {
+    float: left;
+    color: #2a1a4e;
+    width: calc(48% - 0.2rem)
+}
+
+.RoboCupImg {
+    margin: auto;
+    float: right;
+    margin-right: 25%;
+    margin-top: 4%;
+    animation: SlideUpAnimation 3s 0.2s forwards cubic-bezier(0.2, 0.8, 0.2, 1);
+    opacity: 0;
+    padding: 0;
+    width: calc(20% - 0.3rem)
+}
+
+.RoboCupImg img {
+    max-width: 150%;
+}
