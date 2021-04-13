@@ -52,7 +52,7 @@ p {
   margin-left: 300px;
   padding: 10px 16px;
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
 }
 
 .Main {
@@ -86,7 +86,6 @@ p {
 
 .TextGroup p {
   color: white;
-  font-size: 20px;
   padding-bottom: 30px;
 }
 .rightArrow {
@@ -120,6 +119,13 @@ p {
   min-height: 900px;
   animation: SlideUpAnimation 3s 0.2s forwards cubic-bezier(0.2, 0.8, 0.2, 1);
   opacity: 0;
+  overflow: scroll;
+}
+.FBEvents {
+  margin: auto;
+  border-radius: 35px;
+  border: none;
+  max-height: 75vh;
 }
 
 .Events p {
@@ -149,7 +155,6 @@ p {
   animation: SlideUpAnimation 3s 0.4s forwards cubic-bezier(0.2, 0.8, 0.2, 1);
 }
 .Photos h1 {
-  font-size: 40px;
   font-weight: 400;
   color: #2a1a4e;
   padding-top: 50px;
@@ -170,7 +175,7 @@ p {
   margin-left: 300px;
   padding: 0px 16px;
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
 }
 
 .about {
@@ -236,7 +241,6 @@ p {
 .generalRow p1 {
   margin-left: 20px;
   padding: 5px;
-  font-size: 22px;
   font-weight: 400;
   color: #2a1a4e;
 }
@@ -270,7 +274,6 @@ p {
 .projectsRow p1 {
   margin-left: 20px;
   padding: 5px;
-  font-size: 22px;
   font-weight: 400;
   color: #2a1a4e;
 }
@@ -304,7 +307,6 @@ p {
 .outreachRow p1 {
   margin-left: 20px;
   padding: 5px;
-  font-size: 22px;
   font-weight: 400;
   color: #2a1a4e;
 }
@@ -338,7 +340,6 @@ p {
 .technicalRow p1 {
   margin-left: 20px;
   padding: 5px;
-  font-size: 22px;
   font-weight: 400;
   color: #2a1a4e;
 }
@@ -347,7 +348,7 @@ p {
   margin-left: 300px;
   padding: 0px 16px;
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(400px, auto));
+  grid-template-columns: repeat(auto-fit, minmax(300px, auto));
 }
 
 .getInvolved {
@@ -402,7 +403,7 @@ p {
 
 .ProjectSpaceContent {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(400px, auto));
+  grid-template-columns: repeat(auto-fit, minmax(300px, auto));
 }
 
 .ProjectSpacePhoto {
@@ -417,7 +418,7 @@ p {
   margin-left: 300px;
   padding: 0px 16px;
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
 }
 .Sponsorship {
   margin: 20px 20px;
@@ -486,7 +487,7 @@ p {
 
 .QPandAP {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
 }
 
 .projectText {
@@ -508,7 +509,6 @@ p {
 
 .projectText p2 {
   padding: 10px;
-  font-size: 25px;
   font-weight: 400;
 }
 
@@ -537,10 +537,11 @@ p {
   display: grid;
   grid-template-columns: repeat(auto-fit, 250px);
   justify-items: center;
+  justify-content: center;
   margin: auto;
 }
 
-@media (max-width: 1550px) {
+@media only screen and (max-width: 1550px) {
   .Main {
     grid-column: span 1;
   }
@@ -576,7 +577,7 @@ p {
   }
 }
 
-@media (max-width: 850px) {
+@media only screen and (max-width: 850px) {
   .sidebar {
     display: none;
   }
@@ -616,6 +617,36 @@ p {
   .content {
     margin: auto;
   }
+  .Main {
+    margin: 7px 5px;
+  }
+  .Events {
+    margin: 7px 5px;
+  }
+  .Projects {
+    margin: 7px 5px;
+  }
+  .ourTeam {
+    margin: 7px 5px;
+  }
+  .about {
+    margin: 7px 5px;
+  }
+  .contact {
+    margin: 7px 5px;
+  }
+  .getInvolved {
+    margin: 7px 5px;
+  }
+  .ProjectSpace {
+    margin: 7px 5px;
+  }
+  .Sponsorship {
+    margin: 7px 5px;
+  }
+  .OurSponsors {
+    margin: 7px 5px;
+  }
   .content2 {
     margin: auto;
   }
@@ -631,18 +662,75 @@ p {
   .content6 {
     margin-left: 0;
   }
-  h1 {
+  .TextGroup h1 {
     font-size: 30px;
   }
+  .TextGroup p {
+    font-size: 18px;
+  }
+  h1 {
+    font-size: 22px;
+  }
+  p,
   p1 {
-    font-size: 20px;
+    font-size: 18px;
+  }
+  .Photos img {
+    max-width: 250px;
   }
   .photo2 {
     display: none;
   }
+  .ProjectSpaceText {
+    margin-left: 20px;
+  }
   .ProjectSpacePhoto {
-    max-width: 300px;
+    max-width: 250px;
     height: auto;
+  }
+  .generalRow {
+    grid-template-columns: auto;
+    grid-template-rows: auto;
+  }
+  .generalButton {
+    margin: auto;
+  }
+  .generalRow p1 {
+    display: none;
+  }
+  .projectsRow {
+    grid-template-columns: auto;
+    grid-template-rows: auto;
+  }
+  .projectsButton {
+    margin: auto;
+  }
+  .projectsRow p1 {
+    display: none;
+  }
+  .outreachRow {
+    grid-template-columns: auto;
+    grid-template-rows: auto;
+  }
+  .outreachButton {
+    margin: auto;
+  }
+  .outreachRow p1 {
+    display: none;
+  }
+  .technicalRow {
+    grid-template-columns: auto;
+    grid-template-rows: auto;
+  }
+  .technicalButton {
+    margin: auto;
+  }
+  .technicalRow p1 {
+    display: none;
+  }
+  .QPandAP img {
+    max-width: 250px;
+    margin: auto;
   }
 }
 

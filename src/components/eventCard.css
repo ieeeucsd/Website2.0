@@ -66,3 +66,15 @@
   margin-left: -5px;
   text-align: left;
 }
+@media (max-width: 500px) {
+  .circle {
+    display: none;
+  }
+  .eventInfo {
+    grid-template-columns: auto;
+  }
+  .eventInfo p {
+    margin: auto;
+    text-align: center;
+  }
+}

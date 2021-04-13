@@ -54,6 +54,9 @@ import TechnicalChair2 from "../images/officers/Technical - Tim Wang (updated).p
 import TechnicalChair3 from "../images/officers/Technical - William Duan.jpg"
 import Webmaster from "../images/officers/Webmaster - Dominick Lee.jpg"
 
+import Iframe from 'react-iframe'
+import EventToggle from "../components/eventToggler";
+
 // Color Scheme
 var mainColors = {
   Default: "#81b71a",
@@ -63,6 +66,7 @@ var mainColors = {
   Red: "#ff5051",
   discord: "#7289d9",
 };
+
 
 const IndexPage = () => (
   <div>
@@ -97,7 +101,7 @@ const IndexPage = () => (
       </div>
       <div className="Events" id="events">
         <h1>Events</h1>
-        <EventCard
+        {/* <EventCard
           title="Covid Design"
           icon={faBrain}
           link="/outreach"
@@ -124,7 +128,13 @@ const IndexPage = () => (
           link="/robocup"
           text="8:30pm, Sept 20th"
           color="#FF5051"
-        />
+        /> */}
+        
+        <EventToggle />
+        {/* <div className="FBEvnts">
+           
+           <Iframe className="FBEvents" src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fieeeucsd%2F&tabs=timeline&width=340&height=1080&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=1823648257806732" width="340" height="800" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></Iframe>
+        </div> */}
       </div>
     </div>
     <div className="content2">
