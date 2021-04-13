@@ -17,7 +17,7 @@ class eventToggle extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      live: false
+      live: true
     };
   }
   handleToggle = () => {
