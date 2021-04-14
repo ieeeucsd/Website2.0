@@ -59,7 +59,8 @@ class eventToggle extends Component {
           />
           </div>
             :
-            <Iframe className="FBEvents" src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fieeeucsd%2F&tabs=timeline&width=340&height=1080&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=1823648257806732" width="340" height="1080" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></Iframe>
+            <Iframe className="FBEvents" src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fieeeucsd%2F&tabs=timeline,events&width=340&height=1080&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=1823648257806732"  width="340" height="1080" 	
+            style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></Iframe>
         
           }
           <div className="EventToggle" onClick = {this.handleToggle }><p>{this.state.live ? "Upcoming" : "Year-Long"}</p></div>
